@@ -1,0 +1,10 @@
+Instrukcja uruchomienia:
+1. Rozpakuj archiwum ZIP.
+2. Otwórz wiersz poleceń (terminal) w głównym folderze projektu (tam, gdzie znajduje się plik `package.json`).
+3. Zainstaluj wszystkie wymagane zależności wpisując komendę:
+   `npm install`
+4. Uruchom serwer deweloperski komendą:
+   `npm run dev`
+5. Otwórz przeglądarkę i przejdź pod adres wyświetlony w terminalu (domyślnie: `http://localhost:5173/`).
+
+Ważne 3 i 4 punkt jeżeli pobieramy pliki projektu bez modules!!!
